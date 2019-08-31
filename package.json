@@ -1,0 +1,15 @@
+{
+  "name": "hyeyumbot",
+  "version": "0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Dock_Ori",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2"
+  }
+}
